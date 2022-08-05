@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ThomasL12345
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML/CSS
+- 👋 Hi, I’m @ThomasL12345.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning HTML/CSS.
 
 <!---
 ThomasL12345/ThomasL12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
